@@ -4,6 +4,7 @@ from csv import writer
 import os
 import sys
 import time
+import random
 
 # extracting data from the web
 
@@ -90,8 +91,10 @@ def extractRequirement(jobList, fileName):
             jobDes = jobPage.find('div', id = 'jobDescriptionText').get_text(separator=' ')
             temp = [title, jobDes]
             writerCSV(temp, fileName)
-            # Added a delay to scrape whole page
-            time.sleep(20)
+            # Added a random delay to scrape whole page (between 10 and 20 sec)
+            # To avoid captcha
+            randNum = random.randint(10,20) 
+            time.sleep(randNum)
     else:
         print("There was no link on this page")
         pass
