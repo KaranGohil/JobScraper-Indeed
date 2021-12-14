@@ -11,6 +11,12 @@
 
 For this project, I build an python program which scrape the job from Indeed.
 
+The indeed scraper is in "jobScraper.ipynb"
+
+The Report is in "Report.ipynb"
+
+The link to the project video is here - https://drive.google.com/file/d/1Sp8o8s0GtorqLXgpfOzDh-E6Q3n7mLcf/view?usp=sharing
+
 ## Language and Modules
 
 - Python 3.8.3
