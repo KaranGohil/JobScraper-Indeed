@@ -35,6 +35,8 @@ For this project, I build an python program which scrape the job from Indeed.
 
 > $ pip install matplotlib
 
+> $ pip install scikit-learn 
+
 3. In order to run the scraper you have to install [jupyter notebook](https://jupyter.org/install) or VSCode have jupyter notebook extension as well, use the following command from within the project main directory.
 
 ## Possible Improvements
