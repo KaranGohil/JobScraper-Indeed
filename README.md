@@ -39,7 +39,7 @@ For this project, I build an python program which scrape the job from Indeed.
 
 ## Possible Improvements
 
-- Improve all overall code in the program
+- Improve all overall quality of code in the program
 - Use spacy library to train a model to find soft and hard skills
 - Generalize the code. So, anyone can scrape indeed for the desired job at any location.
 - Improve the analysis part
