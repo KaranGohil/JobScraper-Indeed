@@ -11,6 +11,12 @@
 
 For this project, I build an python program which scrape the job from Indeed.
 
+The indeed scraper is in "jobScraper.ipynb"
+
+The Report is in "Report.ipynb"
+
+The link to the project video is here - https://drive.google.com/file/d/1Sp8o8s0GtorqLXgpfOzDh-E6Q3n7mLcf/view?usp=sharing
+
 ## Language and Modules
 
 - Python 3.8.3
@@ -34,6 +40,8 @@ For this project, I build an python program which scrape the job from Indeed.
 > $ pip install pandas
 
 > $ pip install matplotlib
+
+> $ pip install scikit-learn 
 
 3. In order to run the scraper you have to install [jupyter notebook](https://jupyter.org/install) or VSCode have jupyter notebook extension as well, use the following command from within the project main directory.
 
