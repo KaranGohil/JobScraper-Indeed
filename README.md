@@ -15,6 +15,8 @@ The indeed scraper is in "jobScraper.ipynb"
 
 The Report is in "Report.ipynb"
 
+More info on how to use the scraper is inside the jupyter notebook!
+
 The link to the project video is here - https://drive.google.com/file/d/1Sp8o8s0GtorqLXgpfOzDh-E6Q3n7mLcf/view?usp=sharing
 
 ## Language and Modules
